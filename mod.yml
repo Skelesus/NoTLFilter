@@ -1,0 +1,15 @@
+title: NoTLFilter
+originalAuthor: Skelesus
+description: Removes the filter from Timeless river. 
+dependencies: 
+assets:
+
+
+- name: 03system.bin
+  method: binarc
+  source:
+  - name: arif
+    method: copy
+    source:
+    - name: arif_0.list
+    type: List
